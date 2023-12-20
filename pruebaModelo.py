@@ -513,7 +513,7 @@ def main():
     df = pd.read_csv(prueba_filename, sep='|')
     predictor = classifier.predict(df[manual_selected_features])
     
-    print(f"/nSe clasifico que la solicitud http es: {predictor}")
+    print(f"Se clasifico que la solicitud http es: {predictor}")
 
 
     return 0

@@ -1,2 +1,2 @@
 feature-Method|feature-Host|feature-Content-Type|feature-Content-Length|feature-Query|feature-Query-Length|feature-Query-Longest-Value|feature-URL-Path|feature-URL-Path-Length|feature-URL-Path-ResourceExtension|feature-URL-Path-ResourceExtension-Length|feature-URL-Parameters-Num|feature-URL-Parameters-Names|feature-URL-Parameters-Type|feature-URL-Param-Value-Count-Dot|feature-URL-Param-Value-Count-Percentage|feature-URL-Param-Value-Count-SpecialChars|feature-Query-token_avg|feature-Query-token_count|feature-Query-token_largest
-23|1|24|10351|11891|888|58|59|60|6|7|18|10349|62|3|3|63|10350|22|22
+23|1|24|4703|16540|4701|109|71|55|6|7|72|73|74|9|178|2786|16541|325|21
